@@ -1,0 +1,2 @@
+# myEntropy
+myEntropy is an entropy calculator tool that is designed as a proof of concept to obtain the entropy scoring of a file for file type identification.  It provides features include: a list of all characters present in an input file, the hexadecimal value for the corresponding characters in the input file, tabulation of results for the percentage of each character’s frequency in the input file and the entropy values calculated from the tabulation of results.
